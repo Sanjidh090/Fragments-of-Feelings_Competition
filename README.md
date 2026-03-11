@@ -193,11 +193,12 @@ This model is trained on real text from people in psychological distress. It is 
 
 <table>
   <tr>
-    <td align="center"><b>Md. Shakhoyat Rahman Shujon</b></td>
     <td align="center"><b>Sanjid Hasan</b></td>
     <td align="center"><b>Nurul Absar Shadik</b></td>
     <td align="center"><b>Md. Adib Raian</b></td>
     <td align="center"><b>Mahi Woaliu Hasan</b></td>
+    <td align="center"><b>Md. Shakhoyat Rahman Shujon</b></td>
+
   </tr>
 </table>
 
